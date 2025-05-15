@@ -1,1 +1,3 @@
-# tutorial-1
+<p>
+  <img src="github-metrics.svg" alt="metric" />
+</p>
